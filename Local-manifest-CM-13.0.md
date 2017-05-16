@@ -1,4 +1,4 @@
-`<?xml version="1.0" encoding="UTF-8"?>
+```<?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project path="external/busybox" name="LineageOS/android_external_busybox" revision="cm-13.0" />
 	<project path="external/stlport" name="LineageOS/android_external_stlport" revision="cm-13.0" />
@@ -11,4 +11,4 @@
 	<project path="kernel/samsung/j3xnlte" name="djeman/android_kernel_samsung_j3xnlte" revision="cm-13.0" />
 	<project path="vendor/samsung/common" name="djeman/android_vendor_samsung_common" revision="cm-13.0" />
 	<project path="vendor/sprd/open-source" name="djeman/android_vendor_sprd_open-source" revision="cm-13.0" />
-</manifest>`
+</manifest>```
