@@ -11,6 +11,6 @@
 	<project path="device/samsung/j3xnlte" name="djeman/android_device_samsung_j3xnlte" revision="cm-13.0" />
 	<project path="kernel/samsung/j3xnlte" name="djeman/android_kernel_samsung_j3xnlte" revision="cm-13.0" />
 	<project path="vendor/samsung/common" name="djeman/android_vendor_samsung_common" revision="cm-13.0" />
-	<project path="vendor/sprd/open-source" name="djeman/android_vendor_sprd_open-source" revision="cm-13.0" />
+	<project path="vendor/sprd" name="djeman/android_vendor_sprd" revision="cm-13.0" />
 </manifest>
 ```
