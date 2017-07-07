@@ -8,6 +8,10 @@
 	<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="cm-13.0" />
 	<project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" revision="android-6.0" />
 
+	<project path="vendor/nxp-nfc/opensource/Nfc" name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" revision="cm-13.0" />
+	<project path="vendor/nxp-nfc/opensource/frameworks" name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" revision="cm-13.0" />
+	<project path="vendor/nxp-nfc/opensource/libnfc-nci" name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" revision="cm-13.0" />
+
 	<project path="device/samsung/j3xnlte" name="djeman/android_device_samsung_j3xnlte" revision="cm-13.0" />
 	<project path="kernel/samsung/j3xnlte" name="djeman/android_kernel_samsung_j3xnlte" revision="cm-13.0" />
 	<project path="vendor/samsung/common" name="djeman/android_vendor_samsung_common" revision="cm-13.0" />
