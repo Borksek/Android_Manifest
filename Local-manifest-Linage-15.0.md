@@ -2,7 +2,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<project path="external/busybox" name="LineageOS/android_external_busybox" revision="cm-14.1" />
-	<project path="external/stlport" name="LineageOS/android_external_stlport" revision="lineage-15.0" />
 	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" revision="lineage-15.0" />
 	<project path="external/sony/boringssl-compat" name="LineageOS/android_external_sony_boringssl-compat" revision="lineage-15.0" />
 	<project path="bootable/recovery-twrp" name="omnirom/android_bootable_recovery" revision="android-8.0" />
